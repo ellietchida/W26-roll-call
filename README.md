@@ -15,7 +15,7 @@ Winter 2026 semester student roll call activity designed to practice open source
 | Ray Lyu | -- | -- |
 | Carly Mistick | -- | -- |
 | Claire Mollen | -- | -- |
-| Benjamin Radmore | -- | -- |
+| Benjamin Radmore | bradmore | https://github.com/bradmore/W26-roll-call |
 | Eleanor Tchida | -- | -- |
 | Chloe Tyler | -- | -- |
 
