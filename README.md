@@ -13,7 +13,7 @@ Winter 2026 semester student roll call activity designed to practice open source
 | Elizabeth Lane | -- | -- |
 | Manu Li | -- | -- |
 | Ray Lyu | -- | -- |
-| Carly Mistick | -- | -- |
+| Carly Mistick | cmistick | https://github.com/cmistick/W26-roll-call.git |
 | Claire Mollen | -- | -- |
 | Benjamin Radmore | -- | -- |
 | Eleanor Tchida | -- | -- |
