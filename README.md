@@ -5,7 +5,7 @@ Winter 2026 semester student roll call activity designed to practice open source
 
 | Name  | Github handle | Repo link |
 |------|---------------|--------------|
-| Prof L. Corrales | -- | -- |
+| Prof L. Corrales | eblur | [https://github.com/eblur/W26-roll-call](https://github.com/eblur/W26-roll-call) |
 | Nathan Allen | -- | -- |
 | Shreyanshi Garg | -- | -- |
 | Rebecca Knoops | -- | -- |
