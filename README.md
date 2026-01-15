@@ -17,7 +17,7 @@ Winter 2026 semester student roll call activity designed to practice open source
 | Claire Mollen | -- | -- |
 | Benjamin Radmore | bradmore | (https://github.com/bradmore/W26-roll-call.git)[https://github.com/bradmore/W26-roll-call] |
 | Eleanor Tchida | -- | -- |
-| Chloe Tyler | -- | -- |
+| Chloe Tyer | 27ctyer | git@github.com:27ctyer/W26-roll-call.git |
 
 ## Instructions
 
